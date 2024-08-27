@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetacriticCrawler", "MetacriticCrawler\MetacriticCrawler.csproj", "{7C5E37A3-8877-4EC6-9D98-077D888856E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScryfallCrawler", "ScryfallCrawler\ScryfallCrawler.csproj", "{7C5E37A3-8877-4EC6-9D98-077D888856E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

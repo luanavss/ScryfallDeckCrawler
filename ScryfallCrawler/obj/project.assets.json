@@ -78,11 +78,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\MetacriticCrawler\\MetacriticCrawler.csproj",
-      "projectName": "MetacriticCrawler",
-      "projectPath": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\MetacriticCrawler\\MetacriticCrawler.csproj",
+      "projectUniqueName": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\ScryfallCrawler\\ScryfallCrawler.csproj",
+      "projectName": "ScryfallCrawler",
+      "projectPath": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\ScryfallCrawler\\ScryfallCrawler.csproj",
       "packagesPath": "C:\\Users\\luana\\.nuget\\packages\\",
-      "outputPath": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\MetacriticCrawler\\obj\\",
+      "outputPath": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\ScryfallCrawler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\luana\\AppData\\Roaming\\NuGet\\NuGet.Config",

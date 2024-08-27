@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fg7aX2TwLiEXPTMxKOgThM6fuqbgCYUt5mG0vrGqQIUyZMX8P7alHY4SX4WfA6ICDslynZ27eLrq7w7Jqqu7+A==",
+  "success": true,
+  "projectFilePath": "L:\\Rider_Files\\CP1-C#\\MetacriticCrawler\\ScryfallCrawler\\ScryfallCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luana\\.nuget\\packages\\htmlagilitypack\\1.11.62\\htmlagilitypack.1.11.62.nupkg.sha512"
+  ],
+  "logs": []
+}
