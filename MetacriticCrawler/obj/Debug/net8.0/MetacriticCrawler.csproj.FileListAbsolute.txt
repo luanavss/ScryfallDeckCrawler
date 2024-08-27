@@ -1,0 +1,17 @@
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\bin\Debug\net8.0\MetacriticCrawler.exe
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\bin\Debug\net8.0\MetacriticCrawler.deps.json
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\bin\Debug\net8.0\MetacriticCrawler.runtimeconfig.json
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\bin\Debug\net8.0\MetacriticCrawler.dll
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\bin\Debug\net8.0\MetacriticCrawler.pdb
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\bin\Debug\net8.0\HtmlAgilityPack.dll
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.csproj.AssemblyReference.cache
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.GeneratedMSBuildEditorConfig.editorconfig
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.AssemblyInfoInputs.cache
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.AssemblyInfo.cs
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.csproj.CoreCompileInputs.cache
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\Metacrit.E29271FA.Up2Date
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.dll
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\refint\MetacriticCrawler.dll
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.pdb
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\MetacriticCrawler.genruntimeconfig.cache
+L:\Rider_Files\CP1-C#\MetacriticCrawler\MetacriticCrawler\obj\Debug\net8.0\ref\MetacriticCrawler.dll
